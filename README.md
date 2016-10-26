@@ -4,7 +4,8 @@ Any precision and any method is valid, just try not to use trigonometric functio
 
 In pimachin.html you will find the arctan method. It can be useful to look at if you to deal with many decimals of precision.
 
-FYI: The equation that defines a circumference is x<sup>2</sup> + y<sup>2</sup> = R<sup>2</sup>
+FYI: The equation that defines a circumference is:
+>x<sup>2</sup> + y<sup>2</sup> = R<sup>2</sup>
 
 #LINKS
 - Pi: [https://en.wikipedia.org/wiki/Pi](https://en.wikipedia.org/wiki/Pi)
